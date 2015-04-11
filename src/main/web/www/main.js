@@ -32,4 +32,5 @@ require.config({
         }
     },
     deps: ['./app']
+
 });
